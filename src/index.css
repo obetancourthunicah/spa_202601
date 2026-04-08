@@ -16,7 +16,7 @@ header {
   @apply bg-red-500 text-white font-bold;
 }
 main {
-  @apply flex-1 min-h-0;
+  @apply flex-1 min-h-0 overflow-y-auto;
 }
 
 footer {
